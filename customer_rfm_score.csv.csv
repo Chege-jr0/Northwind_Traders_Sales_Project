@@ -1,0 +1,90 @@
+"customerID","companyName","country","recency_days","frequency_orders","monetary_value","R_score","F_score","M_score","segment"
+ALFKI,Alfreds Futterkiste,Germany,27.0,6,4273.0,5,2,2,New Customers
+ANATR,Ana Trujillo Emparedados y helados,Mexico,63.0,4,1402.95,3,1,1,About To Sleep
+ANTON,Antonio Moreno Taquer�a,Mexico,98.0,7,7023.98,2,2,3,About To Sleep
+AROUT,Around the Horn,UK,26.0,13,13390.65,5,3,4,Potential Loyalists
+BERGS,Berglunds snabbk�p,Sweden,63.0,18,24927.58,3,4,5,Loyal Customers
+BLAUS,Blauer See Delikatessen,Germany,7.0,7,3239.8,5,2,2,New Customers
+BLONP,Blondesddsl p�re et fils,France,114.0,11,18534.08,2,3,4,Need Attention
+BOLID,B�lido Comidas preparadas,Spain,43.0,3,4232.85,4,1,2,New Customers
+BONAP,Bon app',France,0.0,17,21963.25,5,4,5,Champions
+BOTTM,Bottom-Dollar Markets,Canada,12.0,14,20801.6,5,3,5,Potential Loyalists
+BSBEV,B's Beverages,UK,22.0,10,6089.9,5,3,3,Potential Loyalists
+CACTU,Cactus Comidas para llevar,Argentina,8.0,6,1814.8,5,2,1,New Customers
+CENTC,Centro comercial Moctezuma,Mexico,657.0,1,100.8,1,1,1,About To Sleep
+CHOPS,Chop-suey Chinese,Switzerland,14.0,8,12348.88,5,2,4,Potential Loyalists
+COMMI,Com�rcio Mineiro,Brazil,14.0,5,3810.75,5,2,2,New Customers
+CONSH,Consolidated Holdings,UK,103.0,3,1719.1,2,1,1,About To Sleep
+DRACD,Drachenblut Delikatessen,Germany,2.0,6,3763.21,5,2,2,New Customers
+DUMON,Du monde entier,France,79.0,4,1615.9,3,1,1,About To Sleep
+EASTC,Eastern Connection,UK,8.0,8,14761.03,5,2,4,Potential Loyalists
+ERNSH,Ernst Handel,Austria,1.0,30,104874.98,5,5,5,Champions
+FAMIA,Familia Arquibaldo,Brazil,187.0,7,4107.55,1,2,2,About To Sleep
+FOLIG,Folies gourmandes,France,135.0,5,11666.9,2,2,4,About To Sleep
+FOLKO,Folk och f� HB,Sweden,9.0,19,29567.56,5,4,5,Champions
+FRANK,Frankenversand,Germany,27.0,15,26656.56,5,4,5,Champions
+FRANR,France restauration,France,43.0,3,3172.16,4,1,2,New Customers
+FRANS,Franchi S.p.A.,Italy,6.0,6,1545.7,5,2,1,New Customers
+FURIB,Furia Bacalhau e Frutos do Mar,Portugal,48.0,8,6427.42,4,2,3,Potential Loyalists
+GALED,Galer�a del gastr�nomo,Spain,62.0,5,836.7,3,2,1,About To Sleep
+GODOS,Godos Cocina T�pica,Spain,15.0,10,11446.36,5,3,4,Potential Loyalists
+GOURL,Gourmet Lanchonetes,Brazil,12.0,9,8414.14,5,2,3,Potential Loyalists
+GREAL,Great Lakes Food Market,USA,6.0,11,18507.45,5,3,4,Potential Loyalists
+GROSR,GROSELLA-Restaurante,Venezuela,139.0,2,1488.7,2,1,1,About To Sleep
+HANAR,Hanari Carnes,Brazil,9.0,14,32841.37,5,3,5,Potential Loyalists
+HILAA,HILARION-Abastos,Venezuela,8.0,18,22768.76,5,4,5,Champions
+HUNGC,Hungry Coyote Import Store,USA,240.0,5,3063.2,1,2,2,About To Sleep
+HUNGO,Hungry Owl All-Night Grocers,Ireland,6.0,19,49979.9,5,4,5,Champions
+ISLAT,Island Trading,UK,61.0,10,6146.3,3,3,3,Promising
+KOENE,K�niglich Essen,Germany,20.0,14,30908.38,5,3,5,Potential Loyalists
+LACOR,La corne d'abondance,France,43.0,4,1992.05,4,1,1,New Customers
+LAMAI,La maison d'Asie,France,9.0,14,9328.2,5,3,3,Potential Loyalists
+LAUGB,Laughing Bacchus Wine Cellars,Canada,125.0,3,522.5,2,1,1,About To Sleep
+LAZYK,Lazy K Kountry Store,USA,349.0,2,357.0,1,1,1,About To Sleep
+LEHMS,Lehmanns Marktstand,Germany,1.0,15,19261.41,5,4,4,Champions
+LETSS,Let's Stop N Shop,USA,83.0,4,3076.47,3,1,2,About To Sleep
+LILAS,LILA-Supermercado,Venezuela,1.0,14,16076.6,5,3,4,Potential Loyalists
+LINOD,LINO-Delicateses,Venezuela,15.0,12,16476.56,5,3,4,Potential Loyalists
+LONEP,Lonesome Pine Restaurant,USA,23.0,8,4258.6,5,2,2,New Customers
+MAGAA,Magazzini Alimentari Riuniti,Italy,51.0,10,7176.22,4,3,3,Potential Loyalists
+MAISD,Maison Dewey,Belgium,29.0,7,9736.08,5,2,3,Potential Loyalists
+MEREP,M�re Paillarde,Canada,188.0,13,28872.19,1,3,5,Need Attention
+MORGK,Morgenstern Gesundkost,Germany,55.0,5,5042.2,4,2,3,Potential Loyalists
+NORTS,North/South,UK,7.0,3,649.0,5,1,1,New Customers
+OCEAN,Oc�ano Atl�ntico Ltda.,Argentina,37.0,5,3460.2,4,2,2,New Customers
+OLDWO,Old World Delicatessen,USA,16.0,10,15177.46,5,3,4,Potential Loyalists
+OTTIK,Ottilies K�seladen,Germany,22.0,10,12496.2,5,3,4,Potential Loyalists
+PERIC,Pericles Comidas cl�sicas,Mexico,1.0,6,4242.2,5,2,2,New Customers
+PICCO,Piccolo und mehr,Austria,9.0,10,23128.86,5,3,5,Potential Loyalists
+PRINI,Princesa Isabel Vinhos,Portugal,28.0,5,5044.94,5,2,3,Potential Loyalists
+QUEDE,Que Del�cia,Brazil,36.0,9,6664.81,4,2,3,Potential Loyalists
+QUEEN,Queen Cozinha,Brazil,2.0,13,25717.5,5,3,5,Potential Loyalists
+QUICK,QUICK-Stop,Germany,22.0,28,110277.3,5,5,5,Champions
+RANCH,Rancho grande,Argentina,23.0,5,2844.1,5,2,2,New Customers
+RATTC,Rattlesnake Canyon Grocery,USA,0.0,18,51097.8,5,4,5,Champions
+REGGC,Reggiani Caseifici,Italy,6.0,12,7048.24,5,3,3,Potential Loyalists
+RICAR,Ricardo Adocicados,Brazil,7.0,11,12450.8,5,3,4,Potential Loyalists
+RICSU,Richter Supermarkt,Switzerland,0.0,10,19343.78,5,3,4,Potential Loyalists
+ROMEY,Romero y tomillo,Spain,27.0,5,1467.29,5,2,1,New Customers
+SANTG,Sant� Gourmet,Norway,26.0,6,5735.15,5,2,3,Potential Loyalists
+SAVEA,Save-a-lot Markets,USA,5.0,31,104361.95,5,5,5,Champions
+SEVES,Seven Seas Imports,UK,91.0,9,16215.32,2,2,4,About To Sleep
+SIMOB,Simons bistro,Denmark,0.0,7,16817.1,5,2,4,Potential Loyalists
+SPECD,Sp�cialit�s du monde,France,14.0,4,2423.35,5,1,2,New Customers
+SPLIR,Split Rail Beer & Ale,USA,42.0,9,11441.63,4,2,4,Potential Loyalists
+SUPRD,Supr�mes d�lices,Belgium,15.0,12,24088.78,5,3,5,Potential Loyalists
+THEBI,The Big Cheese,USA,35.0,4,3361.0,4,1,2,New Customers
+THECR,The Cracker Box,USA,30.0,3,1947.24,5,1,1,New Customers
+TOMSP,Toms Spezialit�ten,Germany,44.0,6,4778.14,4,2,2,New Customers
+TORTU,Tortuga Restaurante,Mexico,2.0,10,10812.15,5,3,4,Potential Loyalists
+TRADH,Tradi��o Hipermercados,Brazil,107.0,6,6850.66,2,2,3,About To Sleep
+TRAIH,Trail's Head Gourmet Provisioners,USA,118.0,3,1571.2,2,1,1,About To Sleep
+VAFFE,Vaffeljernet,Denmark,34.0,11,15843.92,4,3,4,Potential Loyalists
+VICTE,Victuailles en stock,France,103.0,10,9182.43,2,3,3,Need Attention
+VINET,Vins et alcools Chevalier,France,175.0,5,1480.0,2,2,1,About To Sleep
+WANDK,Die Wandernde Kuh,Germany,13.0,10,9588.42,5,3,3,Potential Loyalists
+WARTH,Wartian Herkku,Finland,21.0,15,15648.7,5,4,4,Champions
+WELLI,Wellington Importadora,Brazil,58.0,9,6068.2,4,2,3,Potential Loyalists
+WHITC,White Clover Markets,USA,5.0,14,27363.6,5,3,5,Potential Loyalists
+WILMK,Wilman Kala,Finland,29.0,7,3161.35,5,2,2,New Customers
+WOLZA,Wolski  Zajazd,Poland,13.0,7,3531.95,5,2,2,New Customers
